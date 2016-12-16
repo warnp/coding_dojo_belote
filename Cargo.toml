@@ -1,0 +1,7 @@
+[package]
+name = "coding_dojo"
+version = "0.1.0"
+authors = ["Romain <romain.assie@supinfo.com>"]
+
+[dependencies]
+rand="0.3"
